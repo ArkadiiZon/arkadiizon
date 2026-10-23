@@ -9,7 +9,6 @@
 - 🐰 Full-Stack Software Engineer at **Byte Bunny**, working on BunnyOwn (direct-booking platform), Bunny Invoice (VERI*FACTU e-invoicing) and Go Get Party
 - 🤖 Building WhatsApp AI assistants that handle customer service for local businesses
 - 🎓 Computer Engineering student at **UPV** (Universitat Politècnica de València)
-- 💼 Open to freelance projects: web apps, internal tools and AI automation → [arkadizon.es](https://arkadizon.es)
 
 ## 🌐 Socials
 
