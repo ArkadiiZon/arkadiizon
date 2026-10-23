@@ -53,10 +53,10 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArkadiiZon&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkadiiZon&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ArkadiiZon&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
