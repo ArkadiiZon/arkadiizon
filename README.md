@@ -13,7 +13,6 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadii-zon-6507a0307/)
-[![Website](https://img.shields.io/badge/arkadizon.es-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arkadizon.es)
 [![Zonbook](https://img.shields.io/badge/Zonbook.com-2E7D32?style=for-the-badge&logo=airbnb&logoColor=white)](https://zonbook.com)
 
 ## 💻 Tech Stack
